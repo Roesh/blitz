@@ -122,7 +122,7 @@ __name__
 ├── jest.config.js
 ├── package.json
 ├── tsconfig.json
-├── types.d.ts
+├── global.d.ts
 ├── types.ts
 └── yarn.lock
 ```
